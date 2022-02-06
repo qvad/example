@@ -6,7 +6,7 @@ class abc:
         print("A")
 
     def test2:
-        print("BCSA")
+        print("a")
 
     def test3:
         pass
@@ -15,3 +15,4 @@ class abc:
         print("a")
         print("new messsage)")
         print("asdg")
+        print("absdbf")
