@@ -3,14 +3,16 @@ class abc:
         self.a = "a"
 
     def test1:
-        pass
+        print("A")
 
     def test2:
         print("a")
 
     def test3:
-        print("absdbf")
+        pass
 
     def test4:
         print("a")
         print("new messsage)")
+        print("asdg")
+        print("absdbf")
